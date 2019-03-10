@@ -2,7 +2,7 @@
 
 Closely related to [reproduction-schemes](https://github.com/thecapitalistcycle/reproduction-schemes)
 
-Initially working through Rob Bryer, "Accounting for Value in Marx's Capital"
+Initially working through Rob Bryer, "Accounting for Value in Marx's _Capital_: The Invisible Hand"
 
 Files prefixed with A4 are specific to that.
 
