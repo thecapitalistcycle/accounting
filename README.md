@@ -10,5 +10,7 @@ For citation keys used see [bib/bryer](https://github.com/thecapitalistcycle/bib
 
 [A4V initial preview](A4Vpreview.md)
 
-[A4V appendix A](A4VappA.md)
+[A4V.2 Marx's Theory of Value and Accounting](A4V.2.md)
+
+[A4V.AA Appendix A](A4VappA.md)
 
