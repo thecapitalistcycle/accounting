@@ -7,8 +7,8 @@
 ...
 
 10. What is your attitude towards the disputes that
-are taking place among the economists on cardinal prob-
-lems of political economy? (p191)
+are taking place among the economists on cardinal 
+problems of political economy? (p191)
 
 ## II COMRADE STALIN’S REPLY (p196)
 
